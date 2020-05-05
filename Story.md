@@ -19,3 +19,5 @@
 - 24/04/2020: The projet [ImmoA](https://github.com/O3IL/ImmoA) join the story
 
 - 26/04/2020: The license [O3IL-I](https://github.com/O3IL/License) is created
+
+- 04/05/2020: Closed Beta start for [ImmoA](https://github.com/O3IL/ImmoA)
