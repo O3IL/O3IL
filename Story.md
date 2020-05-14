@@ -21,3 +21,5 @@
 - 26/04/2020: The license [O3IL-I](https://github.com/O3IL/License) is created
 
 - 04/05/2020: Closed Beta start for [ImmoA](https://github.com/O3IL/ImmoA)
+
+- 13/05/2020: [RedGl0w](https://github.com/RedGl0w) join the team
